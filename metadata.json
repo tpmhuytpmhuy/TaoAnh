@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Stylizer",
+  "description": "Upload an image and use Gemini to generate a stylized or rendered version.",
+  "requestFramePermissions": []
+}
